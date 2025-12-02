@@ -10,7 +10,7 @@ A full-stack voice chat application built with React, FastAPI, and AI services t
 - Text-to-speech conversion using ElevenLabs
 - Modern, responsive UI built with React and Tailwind CSS
 - FastAPI backend with robust error handling
-
+ 
 ## 🛠️ Tech Stack
 
 ### Frontend
