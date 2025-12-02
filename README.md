@@ -1,7 +1,7 @@
 # Chat with Rachel - Voice Chat Application
  
 A full-stack voice chat application built with React, FastAPI, and AI services that enables voice-based conversations with an AI assistant named Rachel.
-
+ 
 ## 🌟 Features
  
 - Real-time voice recording and playback
